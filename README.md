@@ -2060,5 +2060,6 @@ We have a space to discuss all things ethereum.org – share your ideas or just 
 ---
 _Small documentation improvement for open-source contribution 🚀_
 
+> Note: This documentation is continuously updated. Contributions are welcome!
 
 
